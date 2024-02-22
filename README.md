@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimiDOESit
+- 👋 Hi, I’m @jimididit
 - 👀 I’m interested in JavaScript, Python, 
 - 🌱 I’m currently learning SECOPS
 - 💞️ I’m looking to collaborate on small open-source projects
