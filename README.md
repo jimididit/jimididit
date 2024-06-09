@@ -1,6 +1,6 @@
 <!-- Your banner image -->
 <p align="center">
-  <img src="https://jimididit.com/assets/image/hosted/github-header.jpg" alt="Header Image" width="1024" height="343">
+  <img src="https://jimididit.com/assets/image/hosting/github-header.jpg" alt="Cool header image" width="1024" height="343">
 </p>
 
 <h1 align="center">Hi, I'm Jimi! 👋</h1>
@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://jimididit.com/assets/image/hosted/github-footer.jpg" alt="Header Image" width="1024" height="154">
+  <img src="https://jimididit.com/assets/image/hosting/github-footer.jpg" alt="Footer Image" width="1024" height="154">
 </p>
 
 
