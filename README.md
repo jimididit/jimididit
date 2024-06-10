@@ -36,6 +36,9 @@
 
 ### Recent Projects
 <p align="center">
+   <a href="https://github.com/jimididit/remote-keylogger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=remote-keylogger&theme=radical" alt="remote-keylogger" />
+  </a>
   <a href="https://github.com/jimididit/simple-pass-manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=simple-pass-manager&theme=radical" alt="simple-pass-manager" />
   </a>
