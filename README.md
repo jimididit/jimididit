@@ -1,6 +1,6 @@
 <!-- Your banner image -->
 <p align="center">
-  <img src="https://jimididit.com/assets/image/hosting/github-header@800w.jpg" alt="Cool header image" width="800" height="268">
+  <img src="https://jimididit.com/assets/image/hosting/github-header@800w.jpg" alt="Header image" width="800" height="268">
 </p>
 
 <h1 align="center">Hi, I'm Jimi! 👋</h1>
@@ -92,7 +92,7 @@
   <a href="https://www.facebook.com/realjimididitit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/jimi.did.it"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@jimididit"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://discord.com/invite/4GTJJ28w"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/invite/4GTJJ28w"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Nokturnal Discord Community" /></a>
 </p>
 
 ---
