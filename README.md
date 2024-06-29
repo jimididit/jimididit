@@ -1,6 +1,6 @@
 <!-- Your banner image -->
 <p align="center">
-  <img src="https://jimididit.com/assets/image/hosting/github-header@800w.jpg" alt="Header image" width="800" height="268">
+  <img src="https://github.com/jimididit/jimididit/blob/main/titlecard.webp" alt="Header image" width="800" height="400">
 </p>
 
 <h1 align="center">Hi, I'm Jimi! 👋</h1>
