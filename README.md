@@ -26,10 +26,10 @@
 
 ### About Me
 - 🌟 **Interests:** Educational/Informative Content Creation, Bot Development, WebApp Development, Scripting, Automation, and AI
-- 💻 **Favorite Technologies:** Python, TypeScript, Shell, Go, Nim, PHP
-- 🌱 **Currently Working On:** Mastering Rust, More Contributions to GitHub
+- 💻 **Favorite Technologies:** Python, TypeScript/JavaScript, Shell, Go, Nim
+- 🌱 **Currently Working On:** My Discord Bot - The Professor, and Contributing More to GitHub
 - 🤝 **Looking to Collaborate:** Open-source projects
-- 🔧 **Tools & Technologies:** NodeJS, Angular, Flask, Discord.py 
+- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, TeactiveJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap
 - 🖥️ **Operating Systems:** Arch Linux (yeah, I use Arch), Debian and Windows
 
 ---
@@ -72,29 +72,42 @@
 
 ---
 
-### Languages and Tools
+### Langs, Libs and More
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black" alt="Nim" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Nextjs" />
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="ReactiveX" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.py" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="DebianLinux" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="ArchLinux" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="KaliLinux" />
 </p>
 
 ---
 
-### Latest YouTube Videos
+### Latest YouTube Videos (WIP)
 <!-- Replace with your own YouTube API or manually update -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=t3AEzpG_VwA"><img src="https://i9.ytimg.com/vi_webp/t3AEzpG_VwA/mqdefault.webp?v=65fb7ee2&sqp=CMTYlLMG&rs=AOn4CLBIgK2Ni8NPvk6V0rQ5e2xax4htaA" alt="Latest YouTube Video" width="300" /></a>
-  <a href="https://www.youtube.com/watch?v=nA06yEHYqv8&t=1s"><img src="https://i9.ytimg.com/vi_webp/nA06yEHYqv8/mqdefault.webp?v=66045629&sqp=CMTYlLMG&rs=AOn4CLA5N9x4IVlY5p4KjqIeu7E7AM-sCw" alt="Latest YouTube Video" width="300" /></a>
+  <a href="https://youtu.be/nA06yEHYqv8"><img src="https://i9.ytimg.com/vi_webp/nA06yEHYqv8/mqdefault.webp?v=66045629&sqp=COjggrQG&rs=AOn4CLDFZjuQB1Mth9zelOSlbWsISh0CcA" alt="Youtube Video" width="300" /></a>
+  <a href="https://youtu.be/SjEg3yfKuoc" target="_blank"><img src="https://i9.ytimg.com/vi/SjEg3yfKuoc/mqdefault.jpg?v=65fb936f&sqp=COjggrQG&rs=AOn4CLANZi3sIad29o97lOf5E6AJxiLOxw" alt="Latest YouTube Video" width="300" /></a>
 </p>
 
 ---
