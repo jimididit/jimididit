@@ -34,19 +34,31 @@
 
 ---
 
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=5&layout=donut&size_weight=0.5&count_weight=0.5)
+
+---
+
 ### Recent Projects
 <p align="center">
+  <a href="https://github.com/jimididit/wifi-hackmode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=wifi-hackmode&theme=nightowl" alt="wifi-hackmode" />
+  </a>
    <a href="https://github.com/jimididit/remote-keylogger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=remote-keylogger&theme=radical" alt="remote-keylogger" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=remote-keylogger&theme=nightowl" alt="remote-keylogger" />
   </a>
   <a href="https://github.com/jimididit/simple-pass-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=simple-pass-manager&theme=radical" alt="simple-pass-manager" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=simple-pass-manager&theme=nightowl" alt="simple-pass-manager" />
   </a>
   <a href="https://github.com/jimididit/wifi_pwn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=wifi_pwn&theme=radical" alt="wifi_pwn" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=wifi_pwn&theme=nightowl" alt="wifi_pwn" />
   </a>
   <a href="https://github.com/jimididit/arch-vmwaretools-install">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=arch-vmwaretools-install&theme=radical" alt="arch-vmwaretools-install" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=arch-vmwaretools-install&theme=nightowl" alt="arch-vmwaretools-install" />
+  </a>
+  <a href="https://github.com/jimididit/tiktok-autoblocker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=tiktok-autoblocker&theme=nightowl" alt="tiktok-autoblocker" />
   </a>
 </p>
 
@@ -54,8 +66,8 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimididit&show_icons=true&theme=radical" alt="Jimi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimididit&theme=radical" alt="Jimi's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jimididit&show_icons=true&theme=nightowl" alt="Jimi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimididit&theme=nightowl" alt="Jimi's GitHub Streak" />
 </p>
 
 ---
