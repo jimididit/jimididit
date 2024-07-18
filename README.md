@@ -120,12 +120,6 @@
   <a href="https://discord.com/invite/4GTJJ28w"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Nokturnal Discord Community" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://jimididit.com/assets/image/hosting/github-footer@800w.jpg" alt="Footer Image" width="800" height="120">
-</p>
-
 
 <!---
 jimididit/jimididit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
