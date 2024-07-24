@@ -35,7 +35,7 @@
 - 💻 **Favorite Technologies:** Python, TypeScript/JavaScript, Shell, Go, Nim
 - 🌱 **Currently Working On:** My Discord Bot - The Professor, and Contributing More to GitHub
 - 🤝 **Looking to Collaborate:** Open-source projects
-- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, TeactiveJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap
+- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, TeactiveJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap and Many more
 - 🖥️ **Operating Systems:** Arch Linux (yeah, I use Arch), Debian and Windows
 
 ---
