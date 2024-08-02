@@ -48,6 +48,9 @@
 
 ### Recent Projects
 <p align="left">
+  <a href="https://github.com/jimididit/useful-linux-commands">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=useful-linux-commands&theme=nightowl" alt="useful-linux-commands" />
+  </a>
   <a href="https://github.com/jimididit/wifi-hackmode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=wifi-hackmode&theme=nightowl" alt="wifi-hackmode" />
   </a>
