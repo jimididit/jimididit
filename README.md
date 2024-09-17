@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Jimi! 👋</h1>
 <p align="center">
-  <strong>Full-stack Developer, Hacking Enthusiast, and Content Creator</strong>
+  <strong>Programming Geek, Cyber Security Enthusiast, and Content Creator</strong>
 </p>
 
 ---
