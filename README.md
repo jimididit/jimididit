@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/YouTube-@jimididit-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.com/invite/4GTJJ28w">
-    <img src="https://img.shields.io/badge/Discord-@Nokturnal%20Academy-5865F2?style=flat-square&logo=Beacons.ai&logoColor=white" alt="Nokturnal Academy" />
+    <img src="https://img.shields.io/badge/Discord-@Nokturnal%20Academy-5865F2?style=flat-square&logo=Beacons.ai&logoColor=white" alt="Nokturnal Community" />
   </a>
   <a href="https://github.com/NokAcademy">
     <img src="https://img.shields.io/badge/GitHub-@NokAcademy-A100FF?style=flat-square&logo=github&logoColor=white" alt="GitHub - NokAcademy" />
