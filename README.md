@@ -4,6 +4,11 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F9A8D4&left=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
+<p align="left">
+  <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+  <a href="https://github.com/jimididit/jimididit/stargazers"><img src="https://img.shields.io/github/stars/jimididit"></a>
+</p>
+
 ---
 
 <p align="left">
@@ -43,12 +48,15 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=8&theme=nightowl&layout=normal&size_weight=0.5&count_weight=0.5&card_width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=8&theme=nightowl&size_weight=0.5&count_weight=0.5&card_width=600)
 
 ---
 
 ### Recent Projects
 <p align="left">
+  <a href="https://github.com/jimididit/tiktok-autoblocker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=tiktok-autoblocker&theme=nightowl" alt="tiktok-autoblocker" />
+  </a>
   <a href="https://github.com/jimididit/useful-linux-commands">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=useful-linux-commands&theme=nightowl" alt="useful-linux-commands" />
   </a>
@@ -66,9 +74,6 @@
   </a>
   <a href="https://github.com/jimididit/arch-vmwaretools-install">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=arch-vmwaretools-install&theme=nightowl" alt="arch-vmwaretools-install" />
-  </a>
-  <a href="https://github.com/jimididit/tiktok-autoblocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=tiktok-autoblocker&theme=nightowl" alt="tiktok-autoblocker" />
   </a>
 </p>
 
