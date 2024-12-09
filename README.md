@@ -3,11 +3,7 @@
   <img src="https://github.com/jimididit/jimididit/blob/main/titlecard.webp" alt="Header image" width="800" height="400">
 </p>
 
-<h1 align="center">Hi, I'm Jimi! 👋</h1>
-<p align="center">
-  <strong>Programming Geek, Developer, Cyber Security Enthusiast, and Content Creator</strong>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F9A8D4&left=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
 ---
 
 <p align="left">
@@ -32,17 +28,17 @@
 
 ### About Me
 - 🌟 **Interests:** Educational/Informative Content Creation, Bot Development, WebApp Development, Scripting, Automation, and AI
-- 💻 **Favorite Technologies:** Python, TypeScript/JavaScript, Shell, Go, Nim
-- 🌱 **Currently Working On:** My Discord Bot - The Professor, and Contributing More to GitHub
-- 🤝 **Looking to Collaborate:** Open-source projects
-- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, TeactiveJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap and Many more
+- 💻 **Favorite Technologies:** Python, TypeScript/JavaScript, Shell, Go
+- 🌱 **Currently Working On:** Building My Brand and Contributing More to GitHub
+- 🤝 **Looking to Collaborate:** Open-source and Startup projects
+- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, Astro, RxJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap and Many more
 - 🖥️ **Operating Systems:** Arch Linux (yeah, I use Arch), AthenaOS, Debian and Windows
 
 ---
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=6&theme=nightowl&layout=normal&size_weight=0.5&count_weight=0.5&card_width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=8&theme=nightowl&layout=normal&size_weight=0.5&count_weight=0.5&card_width=600)
 
 ---
 
@@ -100,6 +96,8 @@
   <img src="https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Nextjs" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -118,21 +116,13 @@
 ### Platforms, Tools & Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="DebianLinux" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="ArchLinux" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="KaliLinux" />
-</p>
-
----
-
-### Latest YouTube Videos (WIP)
-<!-- Replace with your own YouTube API or manually update -->
-<p align="left">
-  <a href="https://youtu.be/nA06yEHYqv8"><img src="https://i9.ytimg.com/vi_webp/nA06yEHYqv8/mqdefault.webp?v=66045629&sqp=COjggrQG&rs=AOn4CLDFZjuQB1Mth9zelOSlbWsISh0CcA" alt="Youtube Video" width="300" /></a>
-  <a href="https://youtu.be/SjEg3yfKuoc" target="_blank"><img src="https://i9.ytimg.com/vi/SjEg3yfKuoc/mqdefault.jpg?v=65fb936f&sqp=COjggrQG&rs=AOn4CLANZi3sIad29o97lOf5E6AJxiLOxw" alt="Latest YouTube Video" width="300" /></a>
 </p>
 
 ---
