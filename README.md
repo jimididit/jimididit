@@ -36,6 +36,11 @@
 
 ---
 
+<!-- dark snake -->
+![jimididit's github activity graph](https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=8&theme=nightowl&layout=normal&size_weight=0.5&count_weight=0.5&card_width=600)
