@@ -1,9 +1,9 @@
 <!-- Your banner image -->
 <p align="center">
-  <img src="https://github.com/jimididit/jimididit/blob/main/titlecard.webp" alt="Header image" width="800" height="400">
+  <img src="https://github.com/jimididit/jimididit/blob/main/JDI-Logo.png" alt="Header image" width="500" height="500">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F9A8D4&left=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E3E3E3&left=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
   <a href="https://github.com/jimididit/jimididit/stargazers"><img src="https://img.shields.io/github/stars/jimididit"></a>
