@@ -41,6 +41,7 @@
 
 ---
 
+### GitHub Contributions
 <!-- dark snake -->
 ![jimididit's github activity graph](https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake-dark.svg)
 
