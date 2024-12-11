@@ -12,7 +12,7 @@
 ---
 
 <p align="left">
-  <a href="https://beacons.ai/jimi.did.it">
+  <a href="https://jimididit.com">
     <img src="https://img.shields.io/badge/Website-jimididit.com-1abc9c?style=flat-square&logo=Beacons.ai&logoColor=white" alt="jimididit.com" />
   </a>
   <a href="https://github.com/jimididit">
