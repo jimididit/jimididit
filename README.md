@@ -3,7 +3,7 @@
   <img src="https://github.com/jimididit/jimididit/blob/main/JDI-Logo.png" alt="Header image" width="500" height="500">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E3E3E3&left=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E3E3E3&left=true&vCenter=true&width=600&lines=You+Found+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
   <a href="https://github.com/jimididit/jimididit/stargazers"><img src="https://img.shields.io/github/stars/jimididit"></a>
@@ -31,25 +31,42 @@
 
 ---
 
-### About Me
-- 🌟 **Interests:** Educational/Informative Content Creation, Bot Development, WebApp Development, Scripting, Automation, and AI
+### About Jimi
+- 🌟 **Interests:** Educational/Informative Content Creation, PenTesting & CTF's, Bot Development, WebApp Development, Scripting, Automation, and AI
 - 💻 **Favorite Technologies:** Python, TypeScript/JavaScript, Shell, Go
-- 🌱 **Currently Working On:** Building My Brand and Contributing More to GitHub
-- 🤝 **Looking to Collaborate:** Open-source and Startup projects
-- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, Astro, RxJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap and Many more
+- 🌱 **Currently Working On:** Building Personal Brand, Contributing More On GitHub
+- 🤝 **Looking to Collaborate:** Open-source, Startup Projects
+- 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, Astro, Svelte, RxJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap and Many More
 - 🖥️ **Operating Systems:** Arch Linux (yeah, I use Arch), AthenaOS, Debian and Windows
 
 ---
 
-### GitHub Contributions
-<!-- dark snake -->
-![jimididit's github activity graph](https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake-dark.svg)
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimididit&show_icons=true&theme=nightowl" alt="Jimi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimididit&theme=nightowl" alt="Jimi's GitHub Streak" />
+</p>
 
 ---
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=8&theme=nightowl&size_weight=0.5&count_weight=0.5&card_width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=6&layout=compact&theme=nightowl&size_weight=0.5&count_weight=0.5)
+
+---
+
+### GitHub Contributions
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimididit&theme=rogue" width="100%">
 
 ---
 
@@ -80,15 +97,7 @@
 
 ---
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimididit&show_icons=true&theme=nightowl" alt="Jimi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimididit&theme=nightowl" alt="Jimi's GitHub Streak" />
-</p>
-
----
-
-### Languages
+### Most Used Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -99,10 +108,9 @@
   <img src="https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black" alt="Nim" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
 </p>
 
-### Frameworks
+### Most Used Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
@@ -114,7 +122,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-### Libraries
+### Most Used Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="ReactiveX" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
@@ -124,11 +132,12 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
-### Platforms, Tools & Operating Systems
+### Most Used Platforms, Tools & Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="DebianLinux" />
@@ -138,7 +147,7 @@
 
 ---
 
-### Connect with Me
+### Connect With Jimi
 <p align="left">
   <a href="https://www.facebook.com/realjimididitit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/jimi.did.it"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
