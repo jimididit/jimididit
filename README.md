@@ -70,6 +70,15 @@
 
 ---
 
+### CTF Platforms
+
+#### HackTheBox
+![Hack The Box](https://www.hackthebox.eu/badge/image/914940)
+
+Join CTF Team - [Nokturnal](https://app.hackthebox.com/public/teams/overview/4927)
+
+---
+
 ### Recent Projects
 <p align="left">
   <a href="https://github.com/jimididit/tiktok-autoblocker">
