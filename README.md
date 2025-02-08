@@ -37,7 +37,7 @@
 - 🌱 **Currently Working On:** Building Personal Brand, Contributing More On GitHub
 - 🤝 **Looking to Collaborate:** Open-source, Startup Projects
 - 🔧 **Libraries, Technologies & Frameworks:** NodeJS, Angular, Astro, Svelte, RxJS, React, Next.js, VueJs, ExpressJs, Flask, Django, Discord.py, Tailwindcss, Bootstrap and Many More
-- 🖥️ **Operating Systems:** Arch Linux (yeah, I use Arch), AthenaOS, Debian and Windows
+- 🖥️ **Operating Systems:** Arch Linux (I use Arch, btw), AthenaOS, Debian and Windows
 
 ---
 
