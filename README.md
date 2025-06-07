@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E3E3E3&left=true&vCenter=true&width=600&lines=You+Found+Jimi!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-  ![Last Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jimididit/jimididit/main/badge.json)
+  <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jimididit/jimididit/main/badge.json"></a>
   <a href="https://github.com/jimididit/jimididit/stargazers"><img src="https://img.shields.io/github/stars/jimididit"></a>
 </p>
 
