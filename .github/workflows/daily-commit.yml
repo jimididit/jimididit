@@ -2,7 +2,7 @@ name: Jimi Commit It
 
 on:
   schedule:
-    - cron: '5 6 * * *'
+    - cron: '7 6 * * *'
   workflow_dispatch:
 
 jobs:
