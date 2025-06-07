@@ -1,0 +1,27 @@
+name: Jimi Commit It
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Update timestamp
+      run: |
+        echo "Last update: $(date -u)" > timestamp.md
+    - name: Update badge.json
+      run: |
+        echo "{\"schemaVersion\":1,\"label\":\"last commit\",\"message\":\"$(date -u +'%Y-%m-%d %H:%M UTC')\",\"color\":\"brightgreen\"}" > badge.json
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git add timestamp.md badge.json
+        git commit -m "chore: daily commit [skip ci]" || echo "No changes to commit"
+        git push
+
