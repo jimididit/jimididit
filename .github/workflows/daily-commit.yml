@@ -18,10 +18,13 @@ jobs:
       run: |
         echo "{\"schemaVersion\":1,\"label\":\"last commit\",\"message\":\"$(date -u +'%Y-%m-%d %H:%M UTC')\",\"color\":\"brightgreen\"}" > badge.json
     - name: Commit & Push changes
+      env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_EMAIL: ${{ secrets.GH_EMAIL }}
       run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "github-actions"
+        git config --global user.email GH_EMAIL
+        git config --global user.name "jimididit"
         git add badge.json
         git commit -m "chore: update badge [skip ci]" || echo "No changes"
-        git push
+        git push https://x-access-token:${GH_TOKEN}@github.com/jimididit/jimididit.git main
 
