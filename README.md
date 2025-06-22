@@ -52,7 +52,7 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=6&layout=compact&theme=nightowl&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimididit&langs_count=10&layout=compact&theme=nightowl&size_weight=0.5&count_weight=0.5)
 
 ---
 
