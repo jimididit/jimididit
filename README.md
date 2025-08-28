@@ -22,7 +22,7 @@
   <a href="https://www.youtube.com/@jimididit/videos">
     <img src="https://img.shields.io/badge/YouTube-@jimididit-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://discord.com/invite/gkA9AW6Sr6">
+  <a href="https://jimididit.com/discord?utm_source=github">
     <img src="https://img.shields.io/badge/Discord-@Nokturnal%20Community-5865F2?style=flat-square&logo=Beacons.ai&logoColor=white" alt="Nokturnal Community" />
   </a>
   <a href="https://github.com/nokturnal-org">
