@@ -1,8 +1,3 @@
-<!-- Your banner image -->
-<p align="center">
-  <img src="https://github.com/jimididit/jimididit/blob/main/JDI-Logo.png" alt="Header image" width="500" height="500">
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E3E3E3&left=true&vCenter=true&width=700&lines=Hello,+World!+I'm+Jimi.;A+Pro+Dev,+Mid+Hacker,+Content+Creator+and+Nokturnal+Founder.+;Want+To+Collab?;)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
