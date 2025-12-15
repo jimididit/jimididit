@@ -77,6 +77,9 @@ Join CTF Team - [Nokturnal](https://app.hackthebox.com/public/teams/overview/492
 
 ### Recent Projects
 <p align="left">
+  <a href="https://github.com/jimididit/blacksmith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=blacksmith&theme=nightowl" alt="blacksmith" />
+  </a>
    <a href="https://github.com/U53RW4R3/ShortcutGen">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=U53RW4R3&repo=ShortcutGen&theme=nightowl" alt="shortcutgen" />
   </a>
