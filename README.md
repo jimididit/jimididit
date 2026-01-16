@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/YouTube-@jimididit-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://jimididit.com/discord?utm_source=github">
-    <img src="https://img.shields.io/badge/Discord-@Nokturnal%20Community-5865F2?style=flat-square&logo=Beacons.ai&logoColor=white" alt="Nokturnal Community" />
+    <img src="https://img.shields.io/badge/Discord-@NØKTURNAL-5865F2?style=flat-square&logo=Beacons.ai&logoColor=white" alt="NØKTURNAL" />
   </a>
   <a href="https://github.com/nokturnal-org">
     <img src="https://img.shields.io/badge/GitHub-@Nokturnal-A100FF?style=flat-square&logo=github&logoColor=white" alt="GitHub - Nokturnal" />
