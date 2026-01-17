@@ -15,9 +15,12 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack developer** and **security researcher** passionate about building useful tools and sharing knowledge through content creation. I'm the founder of **Nokturnal**, a community focused on cybersecurity, programming and all things related to development.
+I'm a **full-stack developer** and **security researcher** passionate about building open-source tools and sharing knowledge through content creation. I'm the founder of **Nokturnal**, a community focused on cybersecurity, programming and all things related to development.
+
+I primarily develop **open-source tools** and CLI applications, with some proprietary solutions. My focus is on creating useful, accessible tools for developers and security researchers.
 
 **What I'm currently working on:**
+
 - 🔐 Building **Nokvault** - A cross-platform CLI tool for file encryption
 - 🎓 Creating educational content on cybersecurity and development
 - 🌱 Contributing to open-source projects
@@ -28,14 +31,17 @@ I'm a **full-stack developer** and **security researcher** passionate about buil
 ## 💻 Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
@@ -44,10 +50,12 @@ I'm a **full-stack developer** and **security researcher** passionate about buil
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Tools
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -68,7 +76,7 @@ I'm a **full-stack developer** and **security researcher** passionate about buil
 
 ---
 
-## 🏆 CTF & Security
+<!-- ## 🏆 CTF & Security
 
 <div align="center">
 
@@ -78,7 +86,7 @@ I'm a **full-stack developer** and **security researcher** passionate about buil
 
 </div>
 
----
+--- -->
 
 ## 🔥 Featured Projects
 
@@ -89,6 +97,7 @@ I'm a **full-stack developer** and **security researcher** passionate about buil
 <td width="50%">
 
 ### 🔐 [Nokvault](https://github.com/jimididit/nokvault)
+
 A cross-platform CLI tool for encrypting and protecting local files and directories with AES-256-GCM encryption.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -99,6 +108,7 @@ A cross-platform CLI tool for encrypting and protecting local files and director
 <td width="50%">
 
 ### ⚒️ [Blacksmith](https://github.com/jimididit/blacksmith)
+
 A cross-platform CLI tool for installing development and cybersecurity tools. Simplifies tool installation and management for developers and security researchers.
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
@@ -111,6 +121,7 @@ A cross-platform CLI tool for installing development and cybersecurity tools. Si
 <td width="50%">
 
 ### 🛡️ [BadUSB Beetle](https://github.com/jimididit/badusb-beetle)
+
 BadUSB payload generator and management tool for security research and ethical hacking. Create and deploy BadUSB payloads for penetration testing.
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
@@ -121,6 +132,7 @@ BadUSB payload generator and management tool for security research and ethical h
 <td width="50%">
 
 ### 🚫 [TikTok Autoblocker](https://github.com/jimididit/tiktok-autoblocker)
+
 Automated tool to block TikTok domains and prevent access for productivity and privacy. Helps users maintain focus and protect their data.
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
