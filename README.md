@@ -11,6 +11,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+  <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jimididit/jimididit/main/badge.json"></a>
+  <a href="https://github.com/jimididit/jimididit/stargazers"><img src="https://img.shields.io/github/stars/jimididit"></a>
+</p>
+
 ---
 
 ## 🚀 About Me
