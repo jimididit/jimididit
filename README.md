@@ -2,7 +2,7 @@
 
 # Hi, I'm Jimi 👋
 
-**Pro Developer · Security Researcher · Content Creator · Founder of Nokturnal**
+**Developer · Security Researcher · Purple Teamer**
 
 [![Website](https://img.shields.io/badge/Website-jimididit.com-1abc9c?style=for-the-badge&logo=Beacons.ai&logoColor=white)](https://jimididit.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@jimididit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimididit)
