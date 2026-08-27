@@ -27,7 +27,7 @@ I primarily develop **open-source tools** and CLI applications, with some propri
 
 **What I'm currently working on:**
 
-- 🔐 Building **Nokvault** - A cross-platform CLI tool for file encryption
+- 🔐 Building cross-platform security CLI tools and more
 - 🎓 Creating educational content on cybersecurity and development
 - 🌱 Contributing to open-source projects
 - 🤝 Looking to collaborate on security-focused and developer tooling projects
