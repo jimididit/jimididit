@@ -8,6 +8,7 @@ import json
 import os
 import urllib.request
 from datetime import datetime, timezone
+from xml.sax.saxutils import escape
 
 USERNAME = "jimididit"
 TOKEN = os.environ.get("GH_TOKEN", "")
@@ -62,7 +63,8 @@ def build_lines(stats):
     ]
 
 
-SVG_TEMPLATE = """<svg width="560" height="{height}" viewBox="0 0 560 {height}" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Consolas',monospace">
+SVG_TEMPLATE = """<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="{height}" viewBox="0 0 560 {height}" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Consolas',monospace">
   <defs>
     <clipPath id="rounded"><rect width="560" height="{height}" rx="10" ry="10"/></clipPath>
   </defs>
@@ -94,7 +96,7 @@ def render_svg(lines):
     y = 56
     delay = 0.3
     for prompt, output in lines:
-        rows.append(ROW_TEMPLATE.format(y=y, y2=y + 20, prompt=prompt, output=output, delay=round(delay, 2)))
+        rows.append(ROW_TEMPLATE.format(y=y, y2=y + 20, prompt=escape(prompt), output=escape(output), delay=round(delay, 2)))
         y += 46
         delay += 0.8
     height = y + 12
