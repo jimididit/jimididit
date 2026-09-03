@@ -57,8 +57,8 @@ def fetch_stats():
 # ponytail: hardcoded line list, add a template arg if lines need to vary per-run
 def build_lines(stats):
     return [
-        ("$ whoami", "jimididit — security researcher & purple teamer"),
-        ("$ stats --github", f"repos: {stats['repos']}  stars: {stats['stars']}  top-lang: {stats['top_lang']}"),
+        ("$ whoami", "jimididit - security researcher & purple teamer"),
+        ("$ stats --github", f"repos: {stats['repos']} · stars: {stats['stars']} · top-lang: {stats['top_lang']}"),
         ("$ status", f"last sync: {stats['date']}"),
     ]
 
