@@ -1,0 +1,36 @@
+<svg width="560" height="206" viewBox="0 0 560 206" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Consolas',monospace">
+  <defs>
+    <clipPath id="rounded"><rect width="560" height="206" rx="10" ry="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="560" height="206" fill="#0d1117"/>
+    <rect width="560" height="28" fill="#161b22"/>
+    <circle cx="16" cy="14" r="5" fill="#ff5f56"/>
+    <circle cx="34" cy="14" r="5" fill="#ffbd2e"/>
+    <circle cx="52" cy="14" r="5" fill="#27c93f"/>
+    <text x="280" y="18" fill="#8b949e" font-size="12" text-anchor="middle">jimi@nokturnal:~</text>
+    <text x="16" y="56" font-size="14">
+      <tspan fill="#1abc9c">$ whoami</tspan>
+    </text>
+    <text x="16" y="76" fill="#c9d1d9" font-size="14" opacity="0">
+      jimididit — security researcher & purple teamer
+      <animate attributeName="opacity" begin="0.3s" dur="0.4s" values="0;1" fill="freeze"/>
+    </text>
+    <text x="16" y="102" font-size="14">
+      <tspan fill="#1abc9c">$ stats --github</tspan>
+    </text>
+    <text x="16" y="122" fill="#c9d1d9" font-size="14" opacity="0">
+      repos: 19  stars: 68  top-lang: Shell
+      <animate attributeName="opacity" begin="1.1s" dur="0.4s" values="0;1" fill="freeze"/>
+    </text>
+    <text x="16" y="148" font-size="14">
+      <tspan fill="#1abc9c">$ status</tspan>
+    </text>
+    <text x="16" y="168" fill="#c9d1d9" font-size="14" opacity="0">
+      last sync: 2026-09-03
+      <animate attributeName="opacity" begin="1.9s" dur="0.4s" values="0;1" fill="freeze"/>
+    </text>
+
+  </g>
+  <rect width="559" height="205" rx="10" ry="10" fill="none" stroke="#30363d"/>
+</svg>

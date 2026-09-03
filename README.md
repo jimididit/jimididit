@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1abc9c&height=4&section=header" width="100%"/>
+
 # Hi, I'm Jimi 👋
 
 **Developer · Security Researcher · Purple Teamer**
@@ -16,6 +18,13 @@
   <a href="https://github.com/jimididit/jimididit"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jimididit/jimididit/main/badge.json"></a>
   <a href="https://github.com/jimididit/jimididit/stargazers"><img src="https://img.shields.io/github/stars/jimididit"></a>
 </p>
+
+<div align="center">
+
+<!-- Custom animated terminal SVG, regenerated daily with live stats -->
+<img src="https://raw.githubusercontent.com/jimididit/jimididit/main/terminal-stats.svg" alt="terminal stats" />
+
+</div>
 
 ---
 
@@ -164,6 +173,14 @@ Automated tool to block TikTok domains and prevent access for productivity and p
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jimididit/jimididit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimididit/jimididit/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimididit/jimididit/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3d-contrib" src="https://raw.githubusercontent.com/jimididit/jimididit/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
 </div>

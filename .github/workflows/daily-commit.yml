@@ -17,6 +17,10 @@ jobs:
     - name: Update badge.json
       run: |
         echo "{\"schemaVersion\":1,\"label\":\"last commit\",\"message\":\"$(date -u +'%Y-%m-%d %H:%M UTC')\",\"color\":\"brightgreen\"}" > badge.json
+    - name: Generate terminal stats SVG
+      env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: python3 scripts/generate_terminal_svg.py
     - name: Commit & Push changes
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,7 +28,7 @@ jobs:
       run: |
         git config --global user.email "jimididit@users.noreply.github.com"
         git config --global user.name "jimididit"
-        git add badge.json
+        git add badge.json terminal-stats.svg
         git commit -m "chore: update badge [skip ci]" || echo "No changes"
         git push https://x-access-token:${GH_TOKEN}@github.com/jimididit/jimididit.git main
 
