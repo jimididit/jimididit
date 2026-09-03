@@ -21,7 +21,7 @@
       <tspan fill="#1abc9c">$ stats --github</tspan>
     </text>
     <text x="16" y="122" fill="#c9d1d9" font-size="14" opacity="0">
-      repos: 19 · stars: 68 · top-lang: Python
+      repos: 20 · stars: 68 · top-lang: Shell
       <animate attributeName="opacity" begin="1.1s" dur="0.4s" values="0;1" fill="freeze"/>
     </text>
     <text x="16" y="148" font-size="14">
