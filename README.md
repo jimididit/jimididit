@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1abc9c&height=4&section=header" width="100%"/>
 
-# Hi, I'm Jimi 👋
+# Hi, I'm Jimi <img src="https://api.iconify.design/mdi:hat-fedora.svg?color=%238e44ad&width=28" valign="middle" />
 
 **Developer · Security Researcher · Purple Teamer**
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%231abc9c&width=22" valign="middle" /> About Me
 
 I'm a **full-stack developer** and **security researcher** passionate about building open-source tools and sharing knowledge through content creation. I'm the founder of **Nokturnal**, a community focused on cybersecurity, programming and all things related to development.
 
@@ -36,14 +36,14 @@ I primarily develop **open-source tools** and CLI applications, with some propri
 
 **What I'm currently working on:**
 
-- 🔐 Building cross-platform security CLI tools and more
-- 🎓 Creating educational content on cybersecurity and development
-- 🌱 Contributing to open-source projects
-- 🤝 Looking to collaborate on security-focused and developer tooling projects
+- <img src="https://api.iconify.design/lucide:lock.svg?color=%231abc9c&width=16" valign="middle" /> Building cross-platform security CLI tools and more
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%231abc9c&width=16" valign="middle" /> Creating educational content on cybersecurity and development
+- <img src="https://api.iconify.design/lucide:sprout.svg?color=%231abc9c&width=16" valign="middle" /> Contributing to open-source projects
+- <img src="https://api.iconify.design/lucide:handshake.svg?color=%231abc9c&width=16" valign="middle" /> Looking to collaborate on security-focused and developer tooling projects
 
 ---
 
-## 💻 Technologies I Use Often
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%231abc9c&width=22" valign="middle" /> Technologies I Use Often
 
 ### Languages
 
@@ -71,7 +71,7 @@ Also reach for Burp Suite, Ghidra, ADB, and a long tail of other Dev, DFIR and p
 
 ---
 
-## 🔥 Featured Projects
+## <img src="https://api.iconify.design/lucide:flame.svg?color=%231abc9c&width=22" valign="middle" /> Featured Projects
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Also reach for Burp Suite, Ghidra, ADB, and a long tail of other Dev, DFIR and p
 <tr>
 <td width="50%">
 
-### 🧱 [Koncreet](https://github.com/jimididit/koncreet)
+### <img src="https://api.iconify.design/lucide:box.svg?color=%231abc9c&width=18" valign="middle" /> [Koncreet](https://github.com/jimididit/koncreet)
 
 First-hour hardening toolkit for a new Linux VPS.
 
@@ -90,7 +90,7 @@ First-hour hardening toolkit for a new Linux VPS.
 </td>
 <td width="50%">
 
-### 🛡️ [BadUSB Beetle](https://github.com/jimididit/badusb-beetle)
+### <img src="https://api.iconify.design/lucide:shield-check.svg?color=%231abc9c&width=18" valign="middle" /> [BadUSB Beetle](https://github.com/jimididit/badusb-beetle)
 
 BadUSB payload generator and management tool for security research and ethical hacking. Create and deploy BadUSB payloads for penetration testing.
 
@@ -103,7 +103,7 @@ BadUSB payload generator and management tool for security research and ethical h
 <tr>
 <td width="50%">
 
-### ⚒️ [Blacksmith](https://github.com/jimididit/blacksmith)
+### <img src="https://api.iconify.design/lucide:hammer.svg?color=%231abc9c&width=18" valign="middle" /> [Blacksmith](https://github.com/jimididit/blacksmith)
 
 A cross-platform CLI tool for installing development and cybersecurity tools. Simplifies tool installation and management for developers and security researchers.
 
@@ -114,7 +114,7 @@ A cross-platform CLI tool for installing development and cybersecurity tools. Si
 </td>
 <td width="50%">
 
-### ⚡ [ShortcutGen](https://github.com/U53RW4R3/ShortcutGen)
+### <img src="https://api.iconify.design/lucide:zap.svg?color=%231abc9c&width=18" valign="middle" /> [ShortcutGen](https://github.com/U53RW4R3/ShortcutGen)
 
 A shortcut generator that weaponizes as payloads. Contributor.
 
@@ -132,7 +132,7 @@ A shortcut generator that weaponizes as payloads. Contributor.
 
 ---
 
-## 📈 Contribution Graph
+## <img src="https://api.iconify.design/lucide:trending-up.svg?color=%231abc9c&width=22" valign="middle" /> Contribution Graph
 
 <div align="center">
 
@@ -155,7 +155,7 @@ A shortcut generator that weaponizes as payloads. Contributor.
 
 ---
 
-## 📝 Latest Blog Posts
+## <img src="https://api.iconify.design/lucide:file-text.svg?color=%231abc9c&width=22" valign="middle" /> Latest Blog Posts
 
 <div align="left">
 
@@ -169,7 +169,7 @@ A shortcut generator that weaponizes as payloads. Contributor.
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://api.iconify.design/lucide:handshake.svg?color=%231abc9c&width=22" valign="middle" /> Let's Connect
 
 <div align="center">
 
