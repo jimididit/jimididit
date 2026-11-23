@@ -54,6 +54,7 @@ I primarily develop **open-source tools** and CLI applications, with some propri
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -81,7 +82,7 @@ Also reach for Burp Suite, Ghidra, ADB, and a long tail of other Dev, DFIR and p
 
 ### <img src="https://api.iconify.design/lucide/box.svg?color=%231abc9c&width=18" valign="middle" /> [Koncreet](https://github.com/jimididit/koncreet)
 
-First-hour hardening toolkit for a new Linux VPS.
+First-hour hardening toolkit for a new Linux VPS. Modular Bash tool that shows a change plan before touching anything, covering sudo users and SSH keys, firewall, fail2ban, and unattended security updates.
 
 ![Language](https://img.shields.io/badge/Language-Shell-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
