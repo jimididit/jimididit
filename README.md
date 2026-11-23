@@ -160,9 +160,11 @@ A shortcut generator that weaponizes as payloads. Contributor.
 
 <div align="left">
 
-- [**Vibe Coding with AI: An Experienced Developer's Take on the Pros and Cons**](https://blog.jimididit.com/posts/vibe-coding-with-ai/) - *Nov 20, 2025*
-- [**Malware Analysis for Beginners**](https://blog.jimididit.com/posts/malware-analysis-for-beginners/) - *Jun 9, 2025*
-- [**AI-Powered Cybersecurity**](https://blog.jimididit.com/posts/ai-powered-cybersecurity/) - *Dec 8, 2024*
+<!-- BLOG-POST-LIST:START -->
+- [**Hardening a Linux VPS: Why I Built koncreet to Do It in 60 Seconds**](https://blog.jimididit.com/blog/hardening-linux-vps-with-koncreet) - *Nov 22, 2026*
+- [**Locked Out of Windows? Password Recovery Methods That Actually Work (2026)**](https://blog.jimididit.com/blog/windows-password-recovery-guide) - *Feb 19, 2026*
+- [**Vibe Coding with AI: An Experienced Developer's Take on the Pros and Cons**](https://blog.jimididit.com/blog/vibe-coding-pros-cons) - *Nov 20, 2025*
+<!-- BLOG-POST-LIST:END -->
 
 **Read more:** [blog.jimididit.com](https://blog.jimididit.com) | *"An Experienced Developer's Experiences"*
 

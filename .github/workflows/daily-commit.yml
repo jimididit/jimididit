@@ -21,6 +21,8 @@ jobs:
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: python3 scripts/generate_terminal_svg.py
+    - name: Update blog posts
+      run: python3 scripts/update_blog_posts.py
     - name: Commit & Push changes
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -28,7 +30,7 @@ jobs:
       run: |
         git config --global user.email "jimididit@users.noreply.github.com"
         git config --global user.name "jimididit"
-        git add badge.json terminal-stats.svg
+        git add badge.json terminal-stats.svg README.md
         git commit -m "chore: update badge [skip ci]" || echo "No changes"
         git push https://x-access-token:${GH_TOKEN}@github.com/jimididit/jimididit.git main
 
